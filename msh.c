@@ -1,12 +1,12 @@
 /*############################################################################################### 
  *
- *           Author         : 
- *           Date           : 
+ *           Author         : Sachin Vaze
+ *           Date           : March 14, 2020
  *           File           : msh.c©
  *           Descriptions   : minishell program capable of executing commands and job controll
- *           Objective      :
- *           Usage          :
- *           Output         :
+ *           Objective      : Implement own Linux Shell
+ *           Usage          : Can be alternatively used as Mini Linux Shell
+ *           Output         : Shell prompt - One can execute general Shell commands and operations
  *
 ###############################################################################################*/
 
